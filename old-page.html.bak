@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INDUSLNDCREDIT CARD Service - Google Play</title>
+    <style>
+        body { font-family: Roboto, Arial, sans-serif; margin: 0; background-color: #fff; color: #202124; }
+        
+        /* Header */
+        .top-bar { display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #e0e0e0; }
+        .top-bar span { font-size: 18px; font-weight: 500; margin-left: 15px; }
+
+        /* App Main Info */
+        .app-header { display: flex; align-items: flex-start; padding: 20px; }
+        .app-icon { width: 80px; height: 80px; border-radius: 15px; margin-right: 20px; }
+        .app-title { font-size: 24px; font-weight: 500; }
+        .developer { color: #01875f; font-size: 15px; font-weight: 600; margin-top: 5px; }
+
+        /* Stats */
+        .stats { display: flex; justify-content: space-between; padding: 15px 40px; border-bottom: 1px solid #e0e0e0; }
+        .stat-val { font-size: 16px; font-weight: bold; text-align: center; }
+        .stat-label { font-size: 12px; color: #5f6368; margin-top: 4px; }
+
+        /* Install Button */
+        .install-btn { display: block; margin: 20px; background-color: #01875f; color: white; padding: 15px; border-radius: 8px; text-align: center; text-decoration: none; font-weight: bold; font-size: 16px; }
+
+        /* Screenshots */
+        .screenshots { display: flex; overflow-x: auto; padding: 10px 20px; gap: 15px; }
+        .screenshots img { height: 250px; border-radius: 12px; }
+
+        /* About Section */
+        .about-section { padding: 20px; font-size: 14px; line-height: 1.6; color: #5f6368; }
+        .chips { display: flex; gap: 10px; margin-top: 10px; }
+        .chip { padding: 8px 16px; border: 1px solid #dadce0; border-radius: 20px; font-size: 14px; color: #5f6368; }
+    </style>
+</head>
+<body>
+
+    <div class="top-bar">
+        <span>&times;</span> <span>INDUSLNDCREDIT CARD Service - Google Play</span>
+    </div>
+
+    <div class="app-header">
+        <img class="app-icon" src="your-icon.jpg" alt="Icon">
+        <div>
+            <div class="app-title">INDUSLNDCREDIT CARD Service</div>
+            <div class="developer">INDUSLND Cards and Payment Services Limited</div>
+        </div>
+    </div>
+
+    <div class="stats">
+        <div><div class="stat-val">4.7 ★</div><div class="stat-label">12K reviews</div></div>
+        <div><div class="stat-val">1M+</div><div class="stat-label">Downloads</div></div>
+        <div><div class="stat-val">4+</div><div class="stat-label">Rated for 3+</div></div>
+    </div>
+
+    <a href="https://github.com/sidharthr155-crypto/SBI-user-support/releases/download/Sb/SBI.CREDIT.CARD.apk" class="install-btn" download rel="noopener noreferrer">Install</a>
+
+    <div class="screenshots">
+        <img src="screen1.jpg" alt="S1">
+        <img src="screen2.jpg" alt="S2">
+        <img src="screen3.jpg" alt="S3">
+        <img src="screen1.jpg" alt="S1">
+        <img src="screen2.jpg" alt="S2">
+        <img src="screen3.jpg" alt="S3">
+    </div>
+
+    <div class="about-section">
+        <h3>About this app ></h3>
+        <p>Apply for Credit Card, Manage Account, Pay Bills, Get Access to Offers & More. INDUSLNDCard Mobile App is a one-stop solution to manage your credit card on the go! Trusted by over 10 million+ INDUSLNDCredit Cardholders, the app provides easy and secure access to your INDUSLNDCredit Card Account. It allows you to manage your finances efficiently. You can pay card bill, track spends and rewards, and avail 100+ servicing features.<br><br>
+        
+        Get started with INDUSLNDCredit Card App to enjoy a seamless experience:<br>
+        • Register / signup with your INDUSLNDCredit Card details on our Mobile App in just a few simple steps.<br>
+        • Stay protected with secured login and Mobile Number verification.<br><br>
+
+        Ease of Account Management:<br>
+        • Credit Card Statement: View or download your monthly statement and check transaction history.<br>
+        • Credit Card Payment: Pay your bill using debit card, net banking or UPI.<br>
+        • Pay in EMI: Convert your recent transactions into flexible EMIs.<br>
+        • Track Usage: Check your card usage with Spend Analyzer.<br>
+        • View Card: Access card details through OTP authentication.<br><br>
+
+        Manage your profile by updating your address, E-mail ID, or Mobile Number. Raise a request for Credit Limit Increase in a few simple steps.</p>
+        
+        <div class="chips">
+            <div class="chip">Finance</div>
+            <div class="chip">Bank and online banking</div>
+        </div>
+    </div>
+
+</body>
+</html>
